@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sistema de estoque(PTI)", "sistema de estoque(PTI).csproj", "{423DD4AE-6539-490E-BA02-D92259F11090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423DD4AE-6539-490E-BA02-D92259F11090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423DD4AE-6539-490E-BA02-D92259F11090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423DD4AE-6539-490E-BA02-D92259F11090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423DD4AE-6539-490E-BA02-D92259F11090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D40C156F-9748-4B72-9904-E1EF0A12F1AA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\pti cs\obj\Debug\net8.0\pti cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\pti cs\obj\Debug\net8.0\pti cs.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\pti cs\obj\Debug\net8.0\pti cs.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\pti cs\obj\Debug\net8.0\pti cs.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\pti cs\bin\Debug\net8.0\pti cs.exe
+C:\Users\Reverse\Documents\C#\pti cs\bin\Debug\net8.0\pti cs.deps.json
+C:\Users\Reverse\Documents\C#\pti cs\bin\Debug\net8.0\pti cs.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\pti cs\bin\Debug\net8.0\pti cs.dll
+C:\Users\Reverse\Documents\C#\pti cs\bin\Debug\net8.0\pti cs.pdb
+C:\Users\Reverse\Documents\C#\pti cs\obj\Debug\net8.0\pti cs.dll
+C:\Users\Reverse\Documents\C#\pti cs\obj\Debug\net8.0\refint\pti cs.dll
+C:\Users\Reverse\Documents\C#\pti cs\obj\Debug\net8.0\pti cs.pdb
+C:\Users\Reverse\Documents\C#\pti cs\obj\Debug\net8.0\pti cs.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\pti cs\obj\Debug\net8.0\ref\pti cs.dll

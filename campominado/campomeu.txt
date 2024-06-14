@@ -1,0 +1,182 @@
+using System;
+using System.IO;
+
+namespace campominado
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        inicio:
+            int[,] campo = new int[10, 10];
+            int[,] jogo = new int[10, 10];
+
+            int qtdLinhas = campo.GetLength(0);
+            int qtdColunas = campo.GetLength(1);
+
+            //salvando dados
+            bool problemaArquivo = false;
+            string caminho_absoluto = "C:\\Users\\Reverse\\Documents\\C#\\campominado\\campo.txt";
+            string caminho_relativo = "C:\\Users\\Reverse\\Documents\\C#\\campominado\\bin\\Debug\\net8.0\\campo.txt";
+            try
+            {
+                StreamReader sr = new StreamReader(caminho_absoluto);
+                string linha_arq = sr.ReadLine();
+                int linha_mtz = 0;
+                int coluna_mtz = 0;
+                while (linha_arq != null || linha_mtz < 10)
+                {
+                    foreach (var numero in linha_arq.Split(','))
+                    {
+                        int num;
+                        if (int.TryParse(numero, out num))
+using System;
+using System.Diagnostics.Contracts;
+using System.Globalization;
+
+namespace campominado
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        inicio:
+            int[,] campo = new int[10, 10];
+            int[,] jogo = new int[10, 10];
+
+            int qtdLinhas = campo.GetLength(0);
+            int qtdColunas = campo.GetLength(1);
+
+            //salvando dados
+            bool problemaArquivo = false;
+            string caminho_absoluto = "C:\\Users\\Reverse\\Documents\\C#\\campominado\\campo.txt";
+            string caminho_relativo = "C:\\Users\\Reverse\\Documents\\C#\\campominado\\bin\\Debug\\net8.0\\campo.txt";
+            try
+            {
+                StreamReader sr = new StreamReader(caminho_absoluto);
+                string linha_arq = sr.ReadLine();
+                int linha_mtz = 0;
+                int coluna_mtz = 0;
+                while (linha_arq != null || linha_mtz < 10)
+                {
+                    foreach (var numero in linha_arq.Split(','))
+                    {
+                        int num;
+                        if (int.TryParse(numero, out num))
+                        {
+                            campo[linha_mtz, coluna_mtz] = num;
+                            jogo[linha_mtz, coluna_mtz] = -1;
+                            coluna_mtz++;
+                        }
+                    }
+                    linha_arq = sr.ReadLine();
+                    coluna_mtz = 0;
+                    linha_mtz++;
+                }
+                sr.Close();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Ocorreu um problema na leitura do arquivo!");
+                problemaArquivo = true;
+            }
+            if (!problemaArquivo)
+            {
+                bool fimJogo = false;
+                bool vitoria = false;
+                while (!fimJogo)
+                {
+                    for (int l = 0; l < qtdLinhas; l++)
+                    {
+                        for (int c = 0; c < qtdColunas; c++)
+                        {
+                            Console.WriteLine(string.Format("{0} ", jogo[l, c]));
+                        }
+                    }
+
+            //posicionamento bandeiras
+            Random gerador = new Random();
+            int linha = gerador.Next(qtdLinhas);
+            int coluna = gerador.Next(qtdColunas);
+            campo[linha, coluna] = 2;
+
+            //posicionamento bombas
+            int bombasPosicionadas = 0;
+            do
+            {
+                linha = gerador.Next(qtdLinhas);
+                coluna = gerador.Next(qtdColunas);
+
+                if (campo[linha, coluna] == 0)
+                {
+                    campo[linha, coluna] = 1;
+                    bombasPosicionadas++;
+                }
+            } while (bombasPosicionadas < 5);
+
+            bool fimJogo = false;
+            do
+            {
+                for (int l = 0; l < qtdLinhas; l++)
+                {
+                    for (int c = 0; c < qtdColunas; c++)
+                    {
+                        Console.Write(string.Format("{0}", jogo[l, c]));
+                    }
+                    Console.WriteLine();
+
+                }
+                Console.Write("Selecione uma linha [1-10]: ");
+                linha = Convert.ToInt32(Console.ReadLine()) - 1;
+                Console.Write("Selecione uma coluna [1-10]: ");
+                coluna = Convert.ToInt32(Console.ReadLine()) - 1;
+
+                switch (campo[linha, coluna])
+                {
+                    case 0:
+                        jogo[linha, coluna] = 0;
+                        Console.Write("Continue tentando. \n\n");
+                        break;
+                    case 1:
+                        jogo[linha, coluna] = 1;
+                        Console.Write("BOOOM. Você perdeu \n\n");
+
+                        if (!fimJogo)
+                        {
+                            Console.Write("Quer tentar novamente? S/N: ");
+                            char opcao = char.Parse(Console.ReadLine());
+                            if (opcao != 'S' && opcao != 's')
+                                goto inicio;
+
+                        }
+                        else
+                        {
+                            fimJogo = true;
+                        }
+                        break;
+                    default:
+                        jogo[linha, coluna] = 2;
+                        Console.Write("Parabéns. Você ganhou!!!\n\n");
+                        fimJogo = true;
+                        vitoria = true;
+                        if (!fimJogo)
+                        {
+                            Console.Write("Quer tentar novamente? S/N: ");
+                            char opcao = char.Parse(Console.ReadLine());
+                            if (opcao != 'S' && opcao != 's')
+                            {
+                                goto inicio;
+
+                            }
+                            else
+                            {
+                                fimJogo = true;
+                                break;
+                            }
+                        }
+                        break;
+                }
+            } while (!fimJogo);
+        }
+    }
+}

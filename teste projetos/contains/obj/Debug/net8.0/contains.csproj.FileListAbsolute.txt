@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\teste projetos\contains\bin\Debug\net8.0\contains.exe
+C:\Users\Reverse\Documents\C#\teste projetos\contains\bin\Debug\net8.0\contains.deps.json
+C:\Users\Reverse\Documents\C#\teste projetos\contains\bin\Debug\net8.0\contains.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\teste projetos\contains\bin\Debug\net8.0\contains.dll
+C:\Users\Reverse\Documents\C#\teste projetos\contains\bin\Debug\net8.0\contains.pdb
+C:\Users\Reverse\Documents\C#\teste projetos\contains\obj\Debug\net8.0\contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\teste projetos\contains\obj\Debug\net8.0\contains.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\teste projetos\contains\obj\Debug\net8.0\contains.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\teste projetos\contains\obj\Debug\net8.0\contains.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\teste projetos\contains\obj\Debug\net8.0\contains.dll
+C:\Users\Reverse\Documents\C#\teste projetos\contains\obj\Debug\net8.0\refint\contains.dll
+C:\Users\Reverse\Documents\C#\teste projetos\contains\obj\Debug\net8.0\contains.pdb
+C:\Users\Reverse\Documents\C#\teste projetos\contains\obj\Debug\net8.0\contains.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\teste projetos\contains\obj\Debug\net8.0\ref\contains.dll

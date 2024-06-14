@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\bin\Debug\net8.0\algoritimos de ordenação.exe
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\bin\Debug\net8.0\algoritimos de ordenação.deps.json
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\bin\Debug\net8.0\algoritimos de ordenação.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\bin\Debug\net8.0\algoritimos de ordenação.dll
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\bin\Debug\net8.0\algoritimos de ordenação.pdb
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\obj\Debug\net8.0\algoritimos de ordenação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\obj\Debug\net8.0\algoritimos de ordenação.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\obj\Debug\net8.0\algoritimos de ordenação.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\obj\Debug\net8.0\algoritimos de ordenação.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\obj\Debug\net8.0\algoritimos de ordenação.dll
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\obj\Debug\net8.0\refint\algoritimos de ordenação.dll
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\obj\Debug\net8.0\algoritimos de ordenação.pdb
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\obj\Debug\net8.0\algoritimos de ordenação.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\teste projetos\algoritimos de ordenação\obj\Debug\net8.0\ref\algoritimos de ordenação.dll

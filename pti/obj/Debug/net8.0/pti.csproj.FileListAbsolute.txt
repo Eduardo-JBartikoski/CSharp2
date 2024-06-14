@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\pti\obj\Debug\net8.0\pti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\pti\obj\Debug\net8.0\pti.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\pti\obj\Debug\net8.0\pti.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\pti\obj\Debug\net8.0\pti.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\pti\bin\Debug\net8.0\pti.exe
+C:\Users\Reverse\Documents\C#\pti\bin\Debug\net8.0\pti.deps.json
+C:\Users\Reverse\Documents\C#\pti\bin\Debug\net8.0\pti.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\pti\bin\Debug\net8.0\pti.dll
+C:\Users\Reverse\Documents\C#\pti\bin\Debug\net8.0\pti.pdb
+C:\Users\Reverse\Documents\C#\pti\obj\Debug\net8.0\pti.dll
+C:\Users\Reverse\Documents\C#\pti\obj\Debug\net8.0\refint\pti.dll
+C:\Users\Reverse\Documents\C#\pti\obj\Debug\net8.0\pti.pdb
+C:\Users\Reverse\Documents\C#\pti\obj\Debug\net8.0\pti.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\pti\obj\Debug\net8.0\ref\pti.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "algoritimos de ordenação/1.0.0": {
+        "runtime": {
+          "algoritimos de ordenação.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algoritimos de ordenação/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

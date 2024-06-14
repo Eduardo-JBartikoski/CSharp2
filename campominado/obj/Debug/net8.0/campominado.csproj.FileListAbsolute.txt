@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\campominado\bin\Debug\net8.0\campominado.exe
+C:\Users\Reverse\Documents\C#\campominado\bin\Debug\net8.0\campominado.deps.json
+C:\Users\Reverse\Documents\C#\campominado\bin\Debug\net8.0\campominado.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\campominado\bin\Debug\net8.0\campominado.dll
+C:\Users\Reverse\Documents\C#\campominado\bin\Debug\net8.0\campominado.pdb
+C:\Users\Reverse\Documents\C#\campominado\obj\Debug\net8.0\campominado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\campominado\obj\Debug\net8.0\campominado.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\campominado\obj\Debug\net8.0\campominado.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\campominado\obj\Debug\net8.0\campominado.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\campominado\obj\Debug\net8.0\campominado.dll
+C:\Users\Reverse\Documents\C#\campominado\obj\Debug\net8.0\refint\campominado.dll
+C:\Users\Reverse\Documents\C#\campominado\obj\Debug\net8.0\campominado.pdb
+C:\Users\Reverse\Documents\C#\campominado\obj\Debug\net8.0\campominado.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\campominado\obj\Debug\net8.0\ref\campominado.dll

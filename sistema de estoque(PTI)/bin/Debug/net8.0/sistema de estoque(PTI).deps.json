@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sistema de estoque(PTI)/1.0.0": {
+        "runtime": {
+          "sistema de estoque(PTI).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistema de estoque(PTI)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

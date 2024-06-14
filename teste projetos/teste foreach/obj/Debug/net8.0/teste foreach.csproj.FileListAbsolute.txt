@@ -1,0 +1,4 @@
+C:\Users\Reverse\Documents\C#\teste projetos\teste foreach\obj\Debug\net8.0\teste foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\teste projetos\teste foreach\obj\Debug\net8.0\teste foreach.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\teste projetos\teste foreach\obj\Debug\net8.0\teste foreach.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\teste projetos\teste foreach\obj\Debug\net8.0\teste foreach.csproj.CoreCompileInputs.cache

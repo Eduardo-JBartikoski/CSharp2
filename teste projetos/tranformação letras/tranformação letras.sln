@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tranformação letras", "tranformação letras.csproj", "{4CB9224F-7151-4660-81FA-6753E05544DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB9224F-7151-4660-81FA-6753E05544DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB9224F-7151-4660-81FA-6753E05544DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB9224F-7151-4660-81FA-6753E05544DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB9224F-7151-4660-81FA-6753E05544DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F941AAA8-FCF0-4085-BB3F-1AEEE2312A33}
+	EndGlobalSection
+EndGlobal

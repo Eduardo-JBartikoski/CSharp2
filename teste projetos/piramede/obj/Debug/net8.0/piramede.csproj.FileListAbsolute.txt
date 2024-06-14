@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\bin\Debug\net8.0\piramede.exe
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\bin\Debug\net8.0\piramede.deps.json
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\bin\Debug\net8.0\piramede.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\bin\Debug\net8.0\piramede.dll
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\bin\Debug\net8.0\piramede.pdb
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\obj\Debug\net8.0\piramede.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\obj\Debug\net8.0\piramede.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\obj\Debug\net8.0\piramede.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\obj\Debug\net8.0\piramede.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\obj\Debug\net8.0\piramede.dll
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\obj\Debug\net8.0\refint\piramede.dll
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\obj\Debug\net8.0\piramede.pdb
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\obj\Debug\net8.0\piramede.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\teste projetos\piramede\obj\Debug\net8.0\ref\piramede.dll

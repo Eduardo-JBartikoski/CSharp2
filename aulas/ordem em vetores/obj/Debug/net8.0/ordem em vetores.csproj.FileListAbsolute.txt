@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\bin\Debug\net8.0\ordem em vetores.exe
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\bin\Debug\net8.0\ordem em vetores.deps.json
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\bin\Debug\net8.0\ordem em vetores.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\bin\Debug\net8.0\ordem em vetores.dll
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\bin\Debug\net8.0\ordem em vetores.pdb
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\obj\Debug\net8.0\ordem em vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\obj\Debug\net8.0\ordem em vetores.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\obj\Debug\net8.0\ordem em vetores.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\obj\Debug\net8.0\ordem em vetores.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\obj\Debug\net8.0\ordem em vetores.dll
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\obj\Debug\net8.0\refint\ordem em vetores.dll
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\obj\Debug\net8.0\ordem em vetores.pdb
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\obj\Debug\net8.0\ordem em vetores.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\aulas\ordem em vetores\obj\Debug\net8.0\ref\ordem em vetores.dll

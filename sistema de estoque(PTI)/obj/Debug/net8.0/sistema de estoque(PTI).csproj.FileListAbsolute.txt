@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\obj\Debug\net8.0\sistema de estoque(PTI).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\obj\Debug\net8.0\sistema de estoque(PTI).AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\obj\Debug\net8.0\sistema de estoque(PTI).AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\obj\Debug\net8.0\sistema de estoque(PTI).csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\obj\Debug\net8.0\refint\sistema de estoque(PTI).dll
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\obj\Debug\net8.0\sistema de estoque(PTI).pdb
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\bin\Debug\net8.0\sistema de estoque(PTI).exe
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\bin\Debug\net8.0\sistema de estoque(PTI).deps.json
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\bin\Debug\net8.0\sistema de estoque(PTI).runtimeconfig.json
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\bin\Debug\net8.0\sistema de estoque(PTI).dll
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\bin\Debug\net8.0\sistema de estoque(PTI).pdb
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\obj\Debug\net8.0\sistema de estoque(PTI).dll
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\obj\Debug\net8.0\sistema de estoque(PTI).genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\sistema de estoque(PTI)\obj\Debug\net8.0\ref\sistema de estoque(PTI).dll

@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\bin\Debug\net8.0\alg busca em vetor.exe
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\bin\Debug\net8.0\alg busca em vetor.deps.json
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\bin\Debug\net8.0\alg busca em vetor.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\bin\Debug\net8.0\alg busca em vetor.dll
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\bin\Debug\net8.0\alg busca em vetor.pdb
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\obj\Debug\net8.0\alg busca em vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\obj\Debug\net8.0\alg busca em vetor.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\obj\Debug\net8.0\alg busca em vetor.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\obj\Debug\net8.0\alg busca em vetor.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\obj\Debug\net8.0\alg busca em vetor.dll
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\obj\Debug\net8.0\refint\alg busca em vetor.dll
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\obj\Debug\net8.0\alg busca em vetor.pdb
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\obj\Debug\net8.0\alg busca em vetor.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\aulas\alg busca em vetor\obj\Debug\net8.0\ref\alg busca em vetor.dll

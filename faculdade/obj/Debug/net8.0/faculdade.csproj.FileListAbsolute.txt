@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\faculdade\bin\Debug\net8.0\faculdade.exe
+C:\Users\Reverse\Documents\C#\faculdade\bin\Debug\net8.0\faculdade.deps.json
+C:\Users\Reverse\Documents\C#\faculdade\bin\Debug\net8.0\faculdade.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\faculdade\bin\Debug\net8.0\faculdade.dll
+C:\Users\Reverse\Documents\C#\faculdade\bin\Debug\net8.0\faculdade.pdb
+C:\Users\Reverse\Documents\C#\faculdade\obj\Debug\net8.0\faculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\faculdade\obj\Debug\net8.0\faculdade.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\faculdade\obj\Debug\net8.0\faculdade.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\faculdade\obj\Debug\net8.0\faculdade.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\faculdade\obj\Debug\net8.0\faculdade.dll
+C:\Users\Reverse\Documents\C#\faculdade\obj\Debug\net8.0\refint\faculdade.dll
+C:\Users\Reverse\Documents\C#\faculdade\obj\Debug\net8.0\faculdade.pdb
+C:\Users\Reverse\Documents\C#\faculdade\obj\Debug\net8.0\faculdade.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\faculdade\obj\Debug\net8.0\ref\faculdade.dll

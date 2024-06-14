@@ -1,0 +1,14 @@
+C:\Users\Reverse\Documents\C#\jogodavelha\obj\Debug\net8.0\jogodavelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reverse\Documents\C#\jogodavelha\obj\Debug\net8.0\jogodavelha.AssemblyInfoInputs.cache
+C:\Users\Reverse\Documents\C#\jogodavelha\obj\Debug\net8.0\jogodavelha.AssemblyInfo.cs
+C:\Users\Reverse\Documents\C#\jogodavelha\obj\Debug\net8.0\jogodavelha.csproj.CoreCompileInputs.cache
+C:\Users\Reverse\Documents\C#\jogodavelha\bin\Debug\net8.0\jogodavelha.exe
+C:\Users\Reverse\Documents\C#\jogodavelha\bin\Debug\net8.0\jogodavelha.deps.json
+C:\Users\Reverse\Documents\C#\jogodavelha\bin\Debug\net8.0\jogodavelha.runtimeconfig.json
+C:\Users\Reverse\Documents\C#\jogodavelha\bin\Debug\net8.0\jogodavelha.dll
+C:\Users\Reverse\Documents\C#\jogodavelha\bin\Debug\net8.0\jogodavelha.pdb
+C:\Users\Reverse\Documents\C#\jogodavelha\obj\Debug\net8.0\jogodavelha.dll
+C:\Users\Reverse\Documents\C#\jogodavelha\obj\Debug\net8.0\refint\jogodavelha.dll
+C:\Users\Reverse\Documents\C#\jogodavelha\obj\Debug\net8.0\jogodavelha.pdb
+C:\Users\Reverse\Documents\C#\jogodavelha\obj\Debug\net8.0\jogodavelha.genruntimeconfig.cache
+C:\Users\Reverse\Documents\C#\jogodavelha\obj\Debug\net8.0\ref\jogodavelha.dll
