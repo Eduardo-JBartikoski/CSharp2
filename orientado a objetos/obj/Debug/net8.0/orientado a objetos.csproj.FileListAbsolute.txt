@@ -1,0 +1,15 @@
+D:\programação\CSharp2\orientado a objetos\bin\Debug\net8.0\orientado a objetos.exe
+D:\programação\CSharp2\orientado a objetos\bin\Debug\net8.0\orientado a objetos.deps.json
+D:\programação\CSharp2\orientado a objetos\bin\Debug\net8.0\orientado a objetos.runtimeconfig.json
+D:\programação\CSharp2\orientado a objetos\bin\Debug\net8.0\orientado a objetos.dll
+D:\programação\CSharp2\orientado a objetos\bin\Debug\net8.0\orientado a objetos.pdb
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\orientado a objetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\orientado a objetos.AssemblyInfoInputs.cache
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\orientado a objetos.AssemblyInfo.cs
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\orientado a objetos.csproj.CoreCompileInputs.cache
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\orientado a objetos.sourcelink.json
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\orientado a objetos.dll
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\refint\orientado a objetos.dll
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\orientado a objetos.pdb
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\orientado a objetos.genruntimeconfig.cache
+D:\programação\CSharp2\orientado a objetos\obj\Debug\net8.0\ref\orientado a objetos.dll
