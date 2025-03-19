@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("orientado a objetos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("herança")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ff937c6e7a7e16c6039e82ec48c0cdfc3f858a9")]
-[assembly: System.Reflection.AssemblyProductAttribute("orientado a objetos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("orientado a objetos")]
+[assembly: System.Reflection.AssemblyProductAttribute("herança")]
+[assembly: System.Reflection.AssemblyTitleAttribute("herança")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

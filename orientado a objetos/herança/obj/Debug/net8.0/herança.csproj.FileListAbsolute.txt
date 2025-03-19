@@ -1,0 +1,5 @@
+D:\programação\CSharp2\orientado a objetos\herança\obj\Debug\net8.0\herança.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\CSharp2\orientado a objetos\herança\obj\Debug\net8.0\herança.AssemblyInfoInputs.cache
+D:\programação\CSharp2\orientado a objetos\herança\obj\Debug\net8.0\herança.AssemblyInfo.cs
+D:\programação\CSharp2\orientado a objetos\herança\obj\Debug\net8.0\herança.csproj.CoreCompileInputs.cache
+D:\programação\CSharp2\orientado a objetos\herança\obj\Debug\net8.0\herança.sourcelink.json

@@ -60,8 +60,7 @@ class Menu
 class Vender
 {
     Vender[] vendas = new Vender[0];
-   string NovoVetor[] novoVetor = new NovoVetor[];
-    string novoVetor =  
+
     
 public string Rua {get;set;}
 public string Numero {get;set; }
